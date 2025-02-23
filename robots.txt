@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aspashur.github.io/learning-R-with-aspr/sitemap_index.xml
