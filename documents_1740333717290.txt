@@ -1,0 +1,6 @@
+{
+    "/learning-R-with-aspr/": {
+        "title": "Welcome",
+        "text": "Welcome Minks #12300das fd Male Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Column Content Column Content <div style=\"background-color: #871A5B; height: 100vh; display: flex; justify-content: center; align-items: center; color: white; font-size: 24px;\">     Your content here </div> <div style=\"background-color: #871A5B; height: 100vh; display: flex; justify-content: center; align-items: center; color: white; font-size: 24px;\">     Your content here </div> <div style=\"background-color: #871A5B; height: 100vh; display: flex; justify-content: center; align-items: center; color: white; font-size: 24px;\">     Your content here </div> \n   \n   \n Card Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Callout Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Callout Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Card Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+}
